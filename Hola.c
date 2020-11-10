@@ -2,6 +2,6 @@
 
 int main() 
 { 
-	cout << "Hello world"; 
+	cout << "Bienvenido a DAW"; 
 	return 0; 
 }
